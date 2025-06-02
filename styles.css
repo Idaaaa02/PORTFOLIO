@@ -48,7 +48,9 @@ nav ul li a:hover {
 h1, h2, h3 {
     color: black    
 }
-
+h1 {
+  font-size: 20px; 
+}
 section {
   padding: 5rem 2rem;
   max-width: 900px;
