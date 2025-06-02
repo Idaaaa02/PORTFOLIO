@@ -48,11 +48,15 @@ nav ul li a:hover {
 h1, h2, h3 {
     color: black    
 }
-h1 {
-  font-size: 20px; 
+h1, h2 {
+  font-size: 50px; 
 }
-p {
-  font-size: 15px; 
+h3 {
+    font-size: 30px;
+}
+#intro {
+  font-size: 30px; 
+  margin-top: 20px;
 }
 section {
   padding: 5rem 2rem;
@@ -61,7 +65,9 @@ section {
   margin-right: auto;
   text-align: left;
 }
-
+#socials p {
+  font-size: 30px;
+}
 #ryu {
   position: absolute;
   bottom: 20px;
